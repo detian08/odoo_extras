@@ -1,2 +1,5 @@
 # odoo_extras
-edxtras de odoo
+MODULOS PARA ODOO 13
+====================
+Modulos extras de Odoo V13
+
